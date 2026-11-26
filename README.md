@@ -9,7 +9,7 @@ Referral: [pfdcd9rw](https://make.fun/r/pfdcd9rw)
 One-image entry for the make.fun bounty **"Sum up 25 November's world news in one image"**:
 a newspaper front page for Wednesday, 25 November 2026, drawn with PIL — seven stories
 (Ras Tanura refinery strike lead, US tariffs, Cairo tanker fire, US growth 4.3%,
-Macy's Thanksgiving parade postponed, FedEx jet off the runway in Miami,
+Macy's Thanksgiving parade postponed, FCC clears SpaceX satellites,
 first Pakistani astronaut) with the date named on the page.
 
 ## The image
